@@ -1,2 +1,2 @@
-# p-gina-de-venda-iphone
+# pagina-de-venda-iphone
 Página de vendas do IPhone
